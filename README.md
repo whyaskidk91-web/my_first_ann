@@ -1,5 +1,8 @@
 # my_first_ann
 
+## IMPORTANT:
+This project is outdated. But i keep it published to show my learning curve.
+
 ## Creation Process:
 Created late September early October.
 Created only with numpy and only by hand, and a lot of trial and error to learn how numpy works.
